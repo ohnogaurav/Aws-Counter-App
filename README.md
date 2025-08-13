@@ -10,7 +10,7 @@ Each user can log in, increment their own counter, and reset it.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/aws-counter-app.git
+git clone https://github.com/ohnogaurav/aws-counter-app.git
 cd aws-counter-app
 pip install -r requirements.txt
 python app.py
